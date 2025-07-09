@@ -4,7 +4,7 @@ Basic Java Stack Operation
 ✅ Overview
 This Java program demonstrates how to implement a stack data structure using an array and provides menu-driven operations like:
 
-Push (add an element)
+# Push (add an element)
 
 Pop (remove an element)
 
